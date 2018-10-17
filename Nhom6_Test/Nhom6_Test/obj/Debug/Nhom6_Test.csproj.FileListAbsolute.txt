@@ -1,16 +1,18 @@
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\bin\Debug\NUnit3.TestAdapter.dll
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\bin\Debug\NUnit3.TestAdapter.pdb
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\bin\Debug\nunit.engine.dll
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\bin\Debug\nunit.engine.api.dll
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\bin\Debug\Mono.Cecil.dll
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\bin\Debug\Nhom6_Test.exe.config
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\bin\Debug\Nhom6_Test.exe
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\bin\Debug\Nhom6_Test.pdb
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\bin\Debug\nunit.framework.dll
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\bin\Debug\nunit.framework.pdb
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\bin\Debug\nunit.framework.xml
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\obj\Debug\Nhom6_Test.csprojAssemblyReference.cache
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\obj\Debug\Nhom6_Test.csproj.CoreCompileInputs.cache
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\obj\Debug\Nhom6_Test.csproj.CopyComplete
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\obj\Debug\Nhom6_Test.exe
-D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Nhom6_Test\obj\Debug\Nhom6_Test.pdb
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\obj\Debug\Nhom6_Test.csprojAssemblyReference.cache
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\obj\Debug\Nhom6_Test.csproj.CoreCompileInputs.cache
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\bin\Debug\nunit.engine.dll
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\bin\Debug\nunit.engine.api.dll
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\bin\Debug\Mono.Cecil.dll
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\bin\Debug\Nhom6_Test.dll
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\bin\Debug\Nhom6_Test.pdb
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\bin\Debug\Calculator.exe
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\bin\Debug\nunit.framework.dll
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\bin\Debug\Calculator.pdb
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\bin\Debug\Calculator.exe.config
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\bin\Debug\nunit.framework.pdb
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\bin\Debug\nunit.framework.xml
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\obj\Debug\Nhom6_Test.csproj.CopyComplete
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\obj\Debug\Nhom6_Test.dll
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Nhom6_Test\obj\Debug\Nhom6_Test.pdb

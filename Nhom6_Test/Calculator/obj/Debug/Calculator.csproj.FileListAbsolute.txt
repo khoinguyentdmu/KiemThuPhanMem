@@ -40,3 +40,13 @@ D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucH
 D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Calculator\obj\Debug\Calculator.exe
 D:\StudyDocuments\TDMU_4Years\Nam4_HK1\ChatLuongKiemThuPhanMem_VoQuocLuong\ThucHanh\TH1(15-10-2018)\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Calculator\bin\Debug\Calculator.exe
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Calculator\bin\Debug\Calculator.pdb
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Calculator\obj\Debug\Calculator.exe
+C:\Users\KHOI\Desktop\New folder\KiemThuPhanMem\Nhom6_Test\Calculator\obj\Debug\Calculator.pdb
