@@ -29,6 +29,8 @@ namespace Nhom6_Test
         }
 
         [Test]
+        /// Testcase 01
+        /// Kỳ vọng hệ phương trình vô số nghiệm
         public void TC_HPT3A_01()
         {
             a1 = 0;
@@ -46,6 +48,8 @@ namespace Nhom6_Test
             Assert.AreEqual(voSoNghiem, operation.GiaiHPTbacnhat3an(a1, b1, c1, d1, a2, b2, c2, d2, a3, b3, c3, d3, ref x, ref y, ref z));
         }
         [Test]
+        /// Testcase 02
+        /// Kỳ vọng hệ phương trình vô nghiệm
         public void TC_HPT3A_02()
         {
             a1 = 0;
@@ -63,6 +67,9 @@ namespace Nhom6_Test
             Assert.AreEqual(voNghiem, operation.GiaiHPTbacnhat3an(a1, b1, c1, d1, a2, b2, c2, d2, a3, b3, c3, d3, ref x, ref y, ref z));
         }
         [Test]
+        /// Testcase 03
+        /// Kỳ vọng hệ phương trình có 1 nghiệm
+        /// x=1; y=2; z=3
         public void TC_HPT3A_03()
         {
             a1 = 1;
@@ -81,6 +88,29 @@ namespace Nhom6_Test
             Assert.AreEqual(1, x);
             Assert.AreEqual(2, y);
             Assert.AreEqual(3, z);
+        }
+        [Test]
+        /// Testcase 04
+        /// Kỳ vọng hệ phương trình có 1 nghiệm
+        /// x=1; y=1; z=1
+        public void TC_HPT3A_04()
+        {
+            a1 = 3;
+            b1 = 3;
+            c1 = 3;
+            d1 = 9;
+            a2 = 3;
+            b2 = -3;
+            c2 = 3;
+            d2 = 3;
+            a3 = 3;
+            b3 = 3;
+            c3 = -3;
+            d3 = 3;
+            Assert.AreEqual(co1Nghiem, operation.GiaiHPTbacnhat3an(a1, b1, c1, d1, a2, b2, c2, d2, a3, b3, c3, d3, ref x, ref y, ref z));
+            Assert.AreEqual(1, x);
+            Assert.AreEqual(1, y);
+            Assert.AreEqual(1, z);
         }
     }
 }
