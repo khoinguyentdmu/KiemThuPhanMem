@@ -52,8 +52,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestHamMu_GiaiThua_Sin.cs" />
     <Compile Include="TestHePTBacNhat2An.cs" />
-    <Compile Include="Test_GiaiHPTbacnhat3an.cs" />
-    <Compile Include="Test_giaiPhuongTrinhBacHai.cs" />
+    <Compile Include="Test_GiaiHPTBacNhat3An.cs" />
+    <Compile Include="Test_GiaiPhuongTrinhBacHai.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
